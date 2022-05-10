@@ -10,6 +10,6 @@ If this file safe king of antiviruses dont delete but if king of antiviruses det
    <input type="button" value="Visit King of antiviruses" />
 </a>
 
-This is end of this page this page in future will be added other things
+This is end of this page this page in future will be added other things.
 
 
